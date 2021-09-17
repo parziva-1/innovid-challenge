@@ -32,3 +32,6 @@ npm start
 
 ## Modalidad de entrega
 * Repositorio público subido a GitHub, Gitlab, Bitbucket.
+## Contacto
+
+-   Contacto: [LinkedIn](https://www.linkedin.com/in/jaime-linares/) / jaimealbertolinares@gmail.com
